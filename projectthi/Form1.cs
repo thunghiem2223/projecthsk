@@ -24,7 +24,7 @@ namespace projectthi
 
         private void btnF2_Click(object sender, EventArgs e)
         {
-        
+            MessageBox.Show("mới xong");
         }
 
         public void getRow(DataRow data)
